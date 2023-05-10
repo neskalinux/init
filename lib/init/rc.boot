@@ -4,7 +4,7 @@
 # Shared code between boot/shutdown.
 . /usr/lib/init/rc.lib
 
-log "Welcome to KISS!"
+log "Welcome to Neska Linux!"
 
 log "Mounting pseudo filesystems..."; {
     mnt nosuid,noexec,nodev    proc     proc /proc
